@@ -1,0 +1,58 @@
+body{
+    background-color: #53b5e9;
+}
+#zona-encabezado {
+    float: left;
+    width: 100%;
+    background-color: #53b5e9;
+}
+#zona-cuerpo {
+    width: 100%;
+    background-color: #03738f;
+
+}
+#zona-imagenes {
+    width: 100%;
+    background-color: #008bad;
+    text-align: center;
+    }
+#zona-final {
+    width: 100%;
+    background: #03325e;
+    }
+
+h1 {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 32pt;
+        color: #634258;
+        white-space: center;
+        }
+.texto-encabezado {
+        font-family: Verdana, Geneva, Tahoma;
+        font-size: 12pt;
+        color: #634258;
+        }
+img {
+    width: 30%;
+    }
+
+.texto-cuerpo {
+        font-family: cursive;
+        font-size: 12pt;
+        color: #560078;
+    }
+
+.texto-final {
+
+    font-family: Verdana, Geneva, Tahoma, sans-
+    serif;
+            
+            font-size: 10pt;
+            font-weight: bold;
+            color: #ae2ed4;
+            }
+
+td {
+    border: black;
+
+}
